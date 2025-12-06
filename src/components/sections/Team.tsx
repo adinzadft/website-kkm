@@ -1,0 +1,10 @@
+export default function Team() {
+  return (
+    <section className="py-20 bg-white">
+      <div className="container mx-auto px-6 text-center">
+        <h2 className="text-3xl font-bold mb-8">Tim Kami</h2>
+        <p className="text-gray-500">Anggota Kelompok KKM Hebat</p>
+      </div>
+    </section>
+  );
+}
